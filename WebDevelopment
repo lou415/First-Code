@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Bouldering Website</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <img src="" alt="">
+  <h1><i>Bouldering Website</i></h1>
+  <br>
+  <p>This website was originally going to be a place where I can brush up on my coding skills, but I may as well use it to talk about rock climbing. </p>
+  <h2>First Free Solo</h2>
+  <br>
+  <p>I wrote this in my journal when it happened, but for the sake of practice I'll write it here. My very first "free solo" ( if you can call it that) <br>
+    was with my friend Shannen up in Boulder, Colorado. I had really wanted to go climbing and he had offered to take me up to the Second Flatiron and free solo <br>
+    a classic route call <a href="https://www.mountainproject.com/route/105752023/freeway">FreeWay</a>. I remember walking up to the base of the Second Flatiron <br>
+    and not really being afraid of it. It was one of those rare moments when you don't think and just act and trust in your climbing ability and just go for it.<br>
+    It was the best decision I made that day. From the moment I began climbing I knew that this was where it was at. This is what I wanted to do. The entire experience was great <br>
+    It was everything that I was hoping for. After that session I made it a habit to go back whenever I could and to atleast try and freesolo a route before my classes. <br>
+    What they don't tell you is how mentally tiring free soloing is. Even though you may have done the route multiple times, you never really feel comfortable enough to relax. <br>
+    You're never really relaxed, but at the same time it's fun and enjoyable and that's what keeps me hooked. </p>
+  <hr>
+  <h3><em>Routes</em> that I have free soloed on the First Flatiron</h3>
+  <ul>
+    <li><a href="https://www.mountainproject.com/route/105752023/freeway">FreeWay</a></li>
+    <ul>
+      <li>This was my first route that I did, and it was a free solo, so it was extra spicy!</li>
+    </ul>
+    <li><a href="https://www.mountainproject.com/route/105752308/free-for-all">Free-For-All</a></li>
+    <ul>
+      <li>This route was fairly sketch, but for the most part it was fun as fuck.</li>
+    </ul>
+  </ul>
+  <hr>
+  <p> So I started climbing at a local gym called Brooklyn Boulders here in Brooklyn ( near Gowanus ) and I have to say it has been going great. The routes that they set up there
+    <br> are really good. Some of the V1-3's are kinda tricky and require some creativity, which for me is good. It exposes me to different types of climbing rather than the ones
+    <br> that I have been doing. I've also noticed that I'm becoming a better climber. Recently, I completed a V5+ as well as a V5 on a 45 degree board which was incredible. It
+    <br> was a testament to the training that I have been doing. Well, to be fair, I haven't been "training" too often, but rather climbing more often. However if I want to started
+    <br> progressing more into the higher grades, I will most definately be needing to incorporate trainging into my life. It's all just a matter of how to train, which I can find
+    <br> YouTube.
+  </p>
+  <ol type="I">
+    <li>V6 White</li>
+    <li>V6 Pink, with some exceptional crimps and a really nice shoulder move.</li>
+  </ol>
+  <p>Another solid day at the gym today. Still projecting this white V6 thats overhung for a short, powerful section. The worst part about this problem is that I'm not even at the crux
+    <br> of the section. I'm in this weird phase where its right before the crux, but because the problem is right at my limit, it feels like a mini crux. This mini crux involves a really
+    <br> precise toe hook on this upside down medium crimp thing which leads to a kick out to a small, bad hold. The worst part about this is that if you don't get it right the first time
+    <br> then you risk either not getting it or wasting energy trying to get it. I also forgot to mention that this is all being fucking done while almost parallel to the ground.
+    <br> But after this you have the real crux because you then ave to transition to two monos that I think you campus
+    <br> for a quick second and then find a way to get this undercling that seems so fucking far away.
+  </p>
+  <br>
+  <hr>
+  <table style="width:100%" border="4">
+    <thead>
+      <tr>
+        <th>Climb</th>
+        <th>Grade</th>
+        <th>Ratings</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Bouldering</td>
+        <td>White V6</td>
+        <td>Monos. VERY my style</td>
+      </tr>
+      <tr>
+        <td>Bouldering</td>
+        <td>Pink V6</td>
+        <td>Good crimps and shoulder. Too weak.</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <a href="ContactMe.html">Connect With Me!</a>
+</body>
+
+</html>
+
+
+
+
+
+
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>ContactMe</title>
+  </head>
+  <body>
+    <form action="mailto:luis.frnando42@gmail.com" method="post" enctype="text/plain">
+      <label for="First Name">First Name:</label>
+      <input type="text" name="FirstName" value=""><br>
+      <label for="LastName">Last Name:</label>
+      <input type="text" name="LastName" value=""><br>
+      <label for="Email">Email:</label>
+      <input type="email" name="email" value=""><br>
+      <label for="Password">Password:</label>
+      <input type="password" name="password" value=""><br>
+      <label>Your Message:</label><br>
+      <textarea name="name" rows="10" cols="30"></textarea><br>
+      <input type="submit" name="">
+    </form>
+  </body>
+</html>
+
+
+
+
+body {
+  background-color: #1cc5dc;
+}
+hr{
+  height: 5px;
+  width: 30%;
+  border-style: dotted none none none;
+  border-color: #867ae9;
+  border-width: 20px;
+}
